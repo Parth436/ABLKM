@@ -1,0 +1,8 @@
+operation,trials,warmups,mean_ms,std_ms
+BB84 simulation + derivation,100,10,2.078125,0.918115
+P_ref AES-GCM protection/recovery,100,10,0.005037,0.012858
+ABLKM geometric mapping,100,10,0.002631,0.007242
+ABLKM store,100,10,0.065024,0.080403
+ABLKM retrieval,100,10,0.021378,0.015364
+Baseline secure-dictionary store,100,10,0.009948,0.002431
+Baseline secure-dictionary retrieval,100,10,0.005867,0.003319
