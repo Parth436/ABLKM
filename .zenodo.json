@@ -1,0 +1,24 @@
+﻿{
+  "title": "ABLKM: A Hybrid BB84 QKD and Geometric Indexing Framework for Secure Local Key Registries",
+  "description": "Reproducibility artifact accompanying the ABLKM research paper. The artifact provides a software BB84 simulation, the Angular-Bucket Lattice Key Mapping (ABLKM) geometric indexing mechanism, HMAC-SHA256 registry identifiers, HKDF-SHA256 key derivation, AES-256-GCM authenticated encryption, benchmark scripts and results, and an interactive browser-based visualization.",
+  "creators": [
+    {
+      "name": "Gawande, Parth Anantrao",
+      "affiliation": "VIT Chennai"
+    }
+  ],
+  "keywords": [
+    "ABLKM",
+    "BB84",
+    "QKD",
+    "quantum key distribution",
+    "geometric indexing",
+    "key registry",
+    "cryptography",
+    "HMAC-SHA256",
+    "AES-256-GCM",
+    "HKDF-SHA256"
+  ],
+  "publication_date": "2026-09-15",
+  "version": "1.0.1"
+}

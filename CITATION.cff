@@ -1,0 +1,22 @@
+﻿cff-version: 1.2.0
+title: "ABLKM: A Hybrid BB84 QKD and Geometric Indexing Framework for Secure Local Key Registries"
+message: "If you use this software or artifact, please cite the associated paper and this release."
+type: software
+authors:
+  - family-names: "Gawande"
+    given-names: "Parth Anantrao"
+    affiliation: "VIT Chennai"
+version: 1.0.1
+date-released: 2026-09-15
+repository-code: "https://github.com/Parth436/ABLKM"
+keywords:
+  - "ABLKM"
+  - "BB84"
+  - "QKD"
+  - "quantum key distribution"
+  - "geometric indexing"
+  - "key registry"
+  - "cryptography"
+  - "HMAC-SHA256"
+  - "AES-256-GCM"
+  - "HKDF-SHA256"
